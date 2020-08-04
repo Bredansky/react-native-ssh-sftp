@@ -1,6 +1,5 @@
 # Project
 /node_modules
-/lib
 /tsconfig.tsbuildinfo
 
 # Xcode
